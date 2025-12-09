@@ -1,6 +1,3 @@
-# swire-cart-abandonment
-Predicting cart abandonment for Swire Coca-Cola using GA event data. Includes EDA and modeling notebooks, feature engineering, and an early-window prediction approach to support targeted recovery interventions.
-
 # **Swire Cart Abandonment Prediction**
 
 This repo contains my individual analytics work for the Swire Coca-Cola case study. It includes exploratory data analysis (EDA), feature engineering, and modeling designed to predict cart abandonment early in the order window so Swire can intervene and recover revenue.
@@ -101,14 +98,4 @@ This project strengthened my skills in:
 * Building visual explanations for executive and operational audiences
 * Prioritizing model metrics that align with business goals (recall vs accuracy)
 * Designing a predictive workflow that integrates with real operational processes
-
----
-
-## **7. Repository Structure**
-
-```
-├── EDA.ipynb               # Exploratory data analysis and behavior patterns
-├── Modelling.ipynb         # Feature engineering, training, and evaluation
-└── README.md               # Project summary
-```
 
